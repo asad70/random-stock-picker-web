@@ -1,5 +1,5 @@
 # random-stock-picker-web
 A promotional website for random stock picker app.
-#### Link: https://randomstockpicker.herokuapp.com/
+#### Link: https://randomstockpickerweb.herokuapp.com/
 
 ![](layout.png)
